@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/mycv-app/static/css/main.9514d278.chunk.css",
+    "main.js": "/mycv-app/static/js/main.ae6858b7.chunk.js",
+    "main.js.map": "/mycv-app/static/js/main.ae6858b7.chunk.js.map",
+    "runtime-main.js": "/mycv-app/static/js/runtime-main.599764ae.js",
+    "runtime-main.js.map": "/mycv-app/static/js/runtime-main.599764ae.js.map",
+    "static/css/2.98bb89c7.chunk.css": "/mycv-app/static/css/2.98bb89c7.chunk.css",
+    "static/js/2.4640baf1.chunk.js": "/mycv-app/static/js/2.4640baf1.chunk.js",
+    "static/js/2.4640baf1.chunk.js.map": "/mycv-app/static/js/2.4640baf1.chunk.js.map",
+    "static/js/3.fb06da8d.chunk.js": "/mycv-app/static/js/3.fb06da8d.chunk.js",
+    "static/js/3.fb06da8d.chunk.js.map": "/mycv-app/static/js/3.fb06da8d.chunk.js.map",
+    "index.html": "/mycv-app/index.html",
+    "static/css/2.98bb89c7.chunk.css.map": "/mycv-app/static/css/2.98bb89c7.chunk.css.map",
+    "static/css/main.9514d278.chunk.css.map": "/mycv-app/static/css/main.9514d278.chunk.css.map",
+    "static/js/2.4640baf1.chunk.js.LICENSE.txt": "/mycv-app/static/js/2.4640baf1.chunk.js.LICENSE.txt",
+    "static/media/avatar_hat.5e49880b.jpg": "/mycv-app/static/media/avatar_hat.5e49880b.jpg",
+    "static/media/font-awesome.min.css": "/mycv-app/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.6ce24c58.svg": "/mycv-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.599764ae.js",
+    "static/css/2.98bb89c7.chunk.css",
+    "static/js/2.4640baf1.chunk.js",
+    "static/css/main.9514d278.chunk.css",
+    "static/js/main.ae6858b7.chunk.js"
+  ]
+}
