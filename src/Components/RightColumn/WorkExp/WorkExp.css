@@ -1,0 +1,52 @@
+.workexp {
+    margin-bottom: 16px;
+    padding: 0 16px;
+}
+
+.workexp i {
+    font-size: 35px;
+}
+
+.workexp-heading {
+    padding: 26px 0;
+}
+
+#workexp-heading {
+    margin: 0;
+    display: inline-block;
+    font-size: 1.9rem;
+    font-weight: 400;
+}
+
+.workexp-container {
+    padding: 0 16px;
+}
+
+.workexp-container-heading {
+    font-size: 1rem;
+    font-weight: bolder;
+    margin-top: 16px;
+    margin-bottom: 0;
+}
+
+.workexp-container i {
+    font-size: 16px;
+}
+
+.workexp-container-date {
+    color: #009688;
+}
+
+.workexp-container-current {
+    padding: 4px 8px;
+    color: #fff;
+    background-color: #009688;
+    border-radius: 5px;
+}
+
+.workexp-container-details {
+    color: #000;
+    font-size: 0.95rem;
+    line-height: 1.4rem;
+}
+
